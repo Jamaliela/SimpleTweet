@@ -42,7 +42,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This time my biggest challenge was to understand how to set up the infinite scrolling and how to link it to our main file.
+I got a better understanding of the Recylcer view with this project.
+I had a hard time sharing my project from the Android Studio App since it could not recognize the repo. 
 
 ## Open-source libraries used
 
